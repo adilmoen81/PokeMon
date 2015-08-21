@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">PokeMon</string>
 
-    <string name="hello_world">Gotta Catch'em ALL!</string>
+    <string name="hello_world">Gotta Catch em ALL!</string>
     <string name="action_settings">Settings</string>
+    <string name="next">Next</string>
+    <string name="Previous">Previous</string>
 </resources>
